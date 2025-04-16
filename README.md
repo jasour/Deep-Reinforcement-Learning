@@ -22,6 +22,16 @@ Actor-Critic Methods:
 5) Twin Delayed DDPG (TD3)
 6) Soft Actor-Critic (SAC)
 
+
+
+**Related Topics:**
+
+1) Reinforcement Learning from Human Feedback (RLHF), 2) Imitation Learning
+
+
+--------
+
+
 **Slides:** https://github.com/jasour/Deep-Reinforcement-Learning/blob/main/Slides/DeepRL.pdf
 
 **Examples:** https://github.com/jasour/Deep-Reinforcement-Learning/tree/main/Examples
