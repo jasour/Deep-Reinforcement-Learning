@@ -8,8 +8,12 @@
 5) Policy Optimization & Q-Learning: Twin Delayed DDPG (TD3)
 6) Policy Optimization & Q-Learning: Soft Actor-Critic (SAC)
 
+Requires Python3, OpenAI Spinning Up, OpenAI Gym
+https://spinningup.openai.com/en/latest/user/installation.html
 
 
+**Reference:**
 
-Reference:
+Achiam, J., & OpenAI. Spinning Up in Deep Reinforcement Learning, https://spinningup.openai.com/en/latest/ .
+
 https://github.com/openai/spinningup/tree/master/spinup/algos/pytorch
